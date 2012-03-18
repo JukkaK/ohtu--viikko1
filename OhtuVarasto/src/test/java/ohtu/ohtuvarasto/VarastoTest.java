@@ -146,7 +146,6 @@ public class VarastoTest {
  
         assertEquals(1, saatuMaara, vertailuTarkkuus);
         assertEquals(10, varasto.paljonkoMahtuu(), vertailuTarkkuus);
-        assertTrue(true);
     }    
     
     
